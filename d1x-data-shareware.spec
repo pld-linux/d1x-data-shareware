@@ -7,6 +7,7 @@ License:	distributable if unmodified
 Group:		X11/Applications/Games
 Vendor:		Parallax Software Corporation
 Source0:	ftp://pyropilots.org/pub/d1x/d1swdf.tar.gz
+# Source0-md5:	8112d6127a7a81a36735f5a9c3175ec2
 URL:		http://www.interplay.com/descent/
 Requires:	d1x-shareware
 BuildArch:	noarch
