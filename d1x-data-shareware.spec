@@ -9,6 +9,7 @@ Vendor:		Parallax Software Corporation
 Source0:	ftp://pyropilots.org/pub/d1x/d1swdf.tar.gz
 URL:		http://www.interplay.com/descent/
 Requires:	d1x-shareware
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_prefix		/usr/X11R6
