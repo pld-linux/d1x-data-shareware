@@ -2,7 +2,7 @@ Summary:	Shareware version of Descent data for d1x
 Summary(pl):	Wersja shareware danych Descenta dla d1x
 Name:		d1x-data-shareware
 Version:	1.2
-Release:	1
+Release:	2
 License:	distributable if unmodified
 Group:		X11/Applications/Games
 Vendor:		Parallax Software Corporation
@@ -12,7 +12,6 @@ URL:		http://www.interplay.com/descent/
 Requires:	d1x-shareware
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
-
 
 %description
 Shareware version of Descent 1.2 data for d1x.
