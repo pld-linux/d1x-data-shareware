@@ -12,7 +12,6 @@ Requires:	d1x-shareware
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
 
 %description
 Shareware version of Descent 1.2 data for d1x.
