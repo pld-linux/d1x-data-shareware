@@ -4,7 +4,7 @@ Name:		d1x-data-shareware
 Version:	1.2
 Release:	1
 License:	distributable if unmodified
-Group:		X11/Appliations/Games
+Group:		X11/Applications/Games
 Vendor:		Parallax Software Corporation
 Source0:	ftp://pyropilots.org/pub/d1x/d1swdf.tar.gz
 URL:		http://www.interplay.com/descent/
