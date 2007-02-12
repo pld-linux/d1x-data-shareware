@@ -1,5 +1,5 @@
 Summary:	Shareware version of Descent data for d1x
-Summary(pl.UTF-8):   Wersja shareware danych Descenta dla d1x
+Summary(pl.UTF-8):	Wersja shareware danych Descenta dla d1x
 Name:		d1x-data-shareware
 Version:	1.2
 Release:	2
