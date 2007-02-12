@@ -1,5 +1,5 @@
 Summary:	Shareware version of Descent data for d1x
-Summary(pl):	Wersja shareware danych Descenta dla d1x
+Summary(pl.UTF-8):   Wersja shareware danych Descenta dla d1x
 Name:		d1x-data-shareware
 Version:	1.2
 Release:	2
@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Shareware version of Descent 1.2 data for d1x.
 
-%description -l pl
+%description -l pl.UTF-8
 Wersja shareware danych z Descenta 1.2 dla d1x.
 
 %prep
